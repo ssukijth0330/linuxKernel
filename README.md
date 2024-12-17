@@ -1,8 +1,8 @@
 # linuxKernel
 
-git clone https://github.com/ssukijth0330/linuxKernel.git
-make menutest
-make menuconfig
-make
----------------
-make clean
+git clone https://github.com/ssukijth0330/linuxKernel.git \n
+make menutest \n
+make menuconfig \n
+make \n
+--------------- \n
+make clean \n
